@@ -16,7 +16,6 @@ setup(name='ndtree',
       license='MIT',
       packages=['ndtree'],
       install_requires=[
-          'itertools',
           'numpy'
       ],
       zip_safe=False)
