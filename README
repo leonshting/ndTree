@@ -1,2 +1,4 @@
 quad(oct)tree is useful for mesh refinements, this package provides corresponding functionality.
 There are depth first and breadth first strategies available.
+
+It is a toy pure-Python written algorithm, or in other words - piece of ****.
